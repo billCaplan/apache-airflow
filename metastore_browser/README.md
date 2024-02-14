@@ -28,3 +28,4 @@ This plugin allows you to view Apache Hive metastore from the web UI interface.
 To use this plugin, copy the contents of this directory to the plugins directory.
 The location of this directory is specified by  `plugins_folder` option in `core` section.
 By default, it's `{AIRFLOW_HOME}/plugins`.
+Hello World

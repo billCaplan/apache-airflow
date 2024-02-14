@@ -26,3 +26,4 @@ to be able to push to the Airflow DockerHub registry.
 
 You can set the DOCKERHUB_USER variable to push to your own DockerHub user if you want
  to test the image or build your own image.
+Hello World
