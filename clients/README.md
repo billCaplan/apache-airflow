@@ -36,3 +36,4 @@ To generate Go client, run:
 ```
 bash ./gen/go.sh ../airflow/api_connexion/openapi/v1.yaml AIRFLOW_CLIENT_GO_REPO_PATH/airflow
 ```
+Hello World

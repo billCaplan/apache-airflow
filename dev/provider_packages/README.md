@@ -435,3 +435,4 @@ EOF
 
 6.  \[IN CONTAINER\] Check if all the providers can be imported
 python3 /opt/airflow/dev/import_all_classes.py --path <PATH_REPORTED_IN_THE_PREVIOUS_STEP>
+Hello World
